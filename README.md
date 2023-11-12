@@ -1,5 +1,7 @@
 # MusicFree 自制主题包
-
+<p align='center'>
+  <img src="https://github.com/Rantele/Rantele-MusicFreeThemePacks/blob/main/img/preview.jpg"><br/>
+</p>
 ## 简介
 
 目前提供了两种主题包：
