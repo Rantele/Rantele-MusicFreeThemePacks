@@ -1,12 +1,12 @@
-# MusicFree 自制主题包
-<p align='center'>
-  <img src="https://github.com/Rantele/Rantele-MusicFreeThemePacks/blob/main/img/preview.jpg"><br/>
-</p>
-## 简介
+# MusicFree 桌面自用主题包
+### 简介
 
 目前提供了两种主题包：
 - dark 深色模式
 - light 浅色模式 
+
+### 使用方法
+[MusicFree官方使用方法](https://github.com/maotoumao/MusicFreeThemePacks)。
 
 ### dark 深色模式
 - 主页截图
