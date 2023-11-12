@@ -1,0 +1,44 @@
+:root {
+  --textColor: #adbac7 !important;
+  --textSecondaryColor: #76796c !important;
+  --backgroundColor: #22272e !important;
+  --shadowColor: rgba(0, 0, 0, 0.15) !important;
+  --dividerColor: #444c56 !important;
+  --maskColor: rgba(33, 33, 33, 0.8) !important;
+  --backdropColor: #22272e !important;
+  --primaryColor: #6343e4 !important;
+  --listHoverColor: rgba(255, 255, 255, 0.05) !important;
+  --listActiveColor: rgba(255, 255, 255, 0.1) !important;
+  --placeholderColor: #424242 !important;
+}
+
+.music-detail-container {
+  background: rgba(37, 18, 18, 0.85) !important;
+  backdrop-filter: blur(75px);
+  -webkit-backdrop-filter: blur(75px);
+  mask-image: none !important;
+  -webkit-mask-image: none !important;
+}
+
+.header-container,
+.music-bar-container {
+  background-color: #1c2128 !important;
+}
+
+input + svg {
+  color: #adbac7 !important;
+  opacity: 0.7 !important;
+}
+
+.header-search {
+  background-color: #1c2128 !important;
+  border: 1px solid var(--dividerColor) !important;
+}
+
+.header-search input {
+  background-color: transparent !important;
+}
+
+a {
+  color: #539bf5 !important;
+}
